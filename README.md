@@ -64,7 +64,7 @@
 
 ## DEPLOYMENT METHODS
 
-[CLICK TO SELECT DEPLOY PLATFORM](https://dashboard.heroku.com/new?template=https://github.com/sathsara-technic/nimesha-md-official)
+<a href="https://dashboard.heroku.com/new?template=https://github.com/sathsara-technic/nimesha-md-official/"><img src="https://img.shields.io/badge/DEPLOY-BUTTON-black" alt="DEPLOY BUTTON" width="250"></a>
 
 <hr>
 
